@@ -26,4 +26,4 @@
           
 </div>
   
-  ![Snake animation](https://github.com/Ruda-Mafra)
+  ![snake gif](https://github.com/Ruda-Mafra/README.md/blob/output/github-contribution-grid-snake.svg)
